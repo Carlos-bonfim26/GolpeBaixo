@@ -1,0 +1,449 @@
+[
+    {
+      "Golpe": "Perfil Falso no WhatsApp",
+      "Como acontece": "Criminosos criam um perfil falso no WhatsApp usando a foto da vítima (obtida em redes sociais) e um número de telefone desconhecido. Eles se passam pela vítima para pedir dinheiro a amigos e familiares.",
+      "Problemas da vítima": "A vítima pode ter seu nome usado para aplicar golpes financeiros em terceiros, além de perder a confiança de conhecidos.",
+      "Como se proteger": [
+        "Nunca informe códigos recebidos por SMS para terceiros.",
+        "Habilite a autenticação de dois fatores no WhatsApp.",
+        "Verifique promoções suspeitas através de canais oficiais."
+      ],
+      "O que fazer": "Registrar um Boletim de Ocorrência e denunciar ao WhatsApp via e-mail (support@whatsapp.com) ou diretamente no aplicativo."
+    },
+    {
+      "Golpe": "Plataformas de Compra/Venda Online",
+      "Como acontece": "Criminosos se passam por suporte de plataformas de venda (como OLX) e pedem códigos de autenticação do WhatsApp da vítima, clonando a conta.",
+      "Problemas da vítima": "Perda de acesso ao WhatsApp e uso da conta para golpes.",
+      "Como se proteger": [
+        "Nunca compartilhe códigos de verificação.",
+        "Use autenticação em duas etapas."
+      ],
+      "O que fazer": "Denunciar ao WhatsApp e registrar BO."
+    },
+    {
+      "Golpe": "Falsos Links",
+      "Como acontece": "Mensagens com links maliciosos prometendo promoções, auxílios ou alertas falsos sobre contas bancárias. Os links direcionam para sites falsos ou baixam malware.",
+      "Problemas da vítima": "Roubo de dados pessoais e financeiros.",
+      "Como se proteger": [
+        "Desconfie de links recebidos por WhatsApp/SMS.",
+        "Verifique URLs antes de clicar (exemplo: 'exempl0.com' com '0' no lugar de 'o')."
+      ],
+      "O que fazer": "Informar o banco e verificar o dispositivo em assistência técnica."
+    },
+    {
+      "Golpe": "Falso Intermediador de Vendas",
+      "Como acontece": "Golpista copia anúncios de venda, oferece preços mais baixos e pede depósito em contas de terceiros, alegando negociações 'secretas'.",
+      "Problemas da vítima": "Perda do valor depositado sem receber o produto.",
+      "Como se proteger": [
+        "Mantenha diálogo aberto com vendedor/comprador.",
+        "Desconfie de valores muito abaixo do mercado."
+      ],
+      "O que fazer": "Registrar BO com dados da conta bancária usada no golpe."
+    },
+    {
+      "Golpe": "Falso Empréstimo",
+      "Como acontece": "Anúncios em redes sociais oferecem empréstimos com taxas prévias. Após pagamento, o dinheiro nunca é liberado.",
+      "Problemas da vítima": "Perda financeira com múltiplas 'taxas' falsas.",
+      "Como se proteger": [
+        "Instituições financeiras nunca cobram taxas antecipadas.",
+        "Desconfie de ofertas 'imperdíveis'."
+      ],
+      "O que fazer": "Denunciar o anúncio e registrar BO."
+    },
+    {
+      "Golpe": "Golpe do Amor",
+      "Como acontece": "Golpistas criam perfis falsos em apps de namoro, simulam relacionamentos e depois pedem dinheiro para 'liberar' presentes retidos pela Receita Federal.",
+      "Problemas da vítima": "Perda financeira e exposição emocional.",
+      "Como se proteger": [
+        "Nunca envie fotos íntimas ou endereço residencial.",
+        "Desconfie de pedidos de dinheiro."
+      ],
+      "O que fazer": "Não depositar e procurar a Delegacia mais próxima."
+    },
+    {
+      "Golpe": "Falso Sequestro",
+      "Como acontece": "Ligação falsa simulando voz de familiar sequestrado, com pedido de resgate urgente.",
+      "Problemas da vítima": "Desespero emocional e perda financeira.",
+      "Como se proteger": [
+        "Desligue e tente contatar o familiar diretamente.",
+        "Peça ajuda a alguém próximo para verificar."
+      ],
+      "O que fazer": "Acionar a polícia imediatamente."
+    },
+    {
+      "Golpe": "Golpe do 'Nudes' ou Extorsão",
+      "Como acontece": "Golpistas se passam por jovens em redes sociais, pedem fotos íntimas e depois ameaçam expô-las, exigindo dinheiro.",
+      "Problemas da vítima": "Chantagem emocional e financeira.",
+      "Como se proteger": [
+        "Nunca compartilhe fotos íntimas.",
+        "Desconfie de amizades repentinas online."
+      ],
+      "O que fazer": "Registrar BO na Delegacia Virtual (delegaciavirtual.sc.gov.br)."
+    },
+    {
+      "Golpe": "Clonagem do WhatsApp",
+      "Como acontece": "Golpistas obtêm o número da vítima em anúncios, pedem o código de verificação do WhatsApp (por SMS) e clonam a conta.",
+      "Problemas da vítima": "Uso da conta para pedir dinheiro a contatos.",
+      "Como se proteger": [
+        "Habilite confirmação em duas etapas no WhatsApp.",
+        "Nunca compartilhe códigos."
+      ],
+      "O que fazer": "Solicitar desativação da conta via e-mail (support@whatsapp.com)."
+    },
+    {
+      "Golpe": "Bilhete Premiado",
+      "Como acontece": "Abordagem a idosos com falsos bilhetes de loteria premiados, exigindo depósito para 'garantir' o prêmio.",
+      "Problemas da vítima": "Perda financeira.",
+      "Como se proteger": [
+        "Desconfie de dinheiro fácil em abordagens de rua."
+      ],
+      "O que fazer": "Informar à polícia."
+    },
+    {
+      "Golpe": "Parente com Carro Quebrado",
+      "Como acontece": "Ligação aleatória fingindo ser parente distante com emergência (carro quebrado) e pedindo transferência.",
+      "Problemas da vítima": "Perda financeira.",
+      "Como se proteger": [
+        "Desligue e confirme a situação com o familiar."
+      ],
+      "O que fazer": "Bloquear o número."
+    },
+    {
+      "Golpe": "Depósito com Envelope Vazio",
+      "Como acontece": "Golpista simula depósito via envelope vazio em caixa eletrônico e envia comprovante falso. A vítima só descobre o golpe dias depois.",
+      "Problemas da vítima": "Perda do bem vendido.",
+      "Como se proteger": [
+        "Aguarde a compensação bancária antes de entregar produtos."
+      ],
+      "O que fazer": "Registrar BO com dados do comprador."
+    },
+    {
+      "Golpe": "Falsa Ligação do Banco",
+      "Como acontece": "Ligação falsa solicitando dados bancários ou acesso a sites clonados.",
+      "Problemas da vítima": "Roubo de dinheiro da conta.",
+      "Como se proteger": [
+        "Bancos nunca pedem senhas por telefone.",
+        "Desligue e ligue para o número oficial do banco."
+      ],
+      "O que fazer": "Bloquear cartões e contas imediatamente."
+    },
+    {
+      "Golpe": "Falso Boleto",
+      "Como acontece": "Enviam boletos falsos por e-mail ou WhatsApp com dados alterados (beneficiário, valor).",
+      "Problemas da vítima": "Pagamento para criminosos sem quitar a dívida real.",
+      "Como se proteger": [
+        "Verifique os 3 primeiros dígitos do código de barras (banco emissor)."
+      ],
+      "O que fazer": "Cancelar o pagamento e registrar BO."
+    },
+    {
+      "Golpe": "Ligação para Estabelecimentos",
+      "Como acontece": "Criminosos ligam para empresas alegando estar na porta com bandidos e exigem PIX para não invadirem.",
+      "Problemas da vítima": "Perda financeira e pânico.",
+      "Como se proteger": [
+        "Desligue e acione a Polícia Militar (190)."
+      ],
+      "O que fazer": "Registrar BO com número do telefone do golpista."
+    },
+    {
+      "Golpe": "Aplicativo Fraudulento",
+      "Como acontece": "Aplicativos falsos em lojas oficiais (Google Play/App Store) que roubam dados ou instalam malware.",
+      "Problemas da vítima": "Roubo de senhas e dados bancários.",
+      "Como se proteger": [
+        "Verifique avaliações e desenvolvedor do app.",
+        "Evite links desconhecidos."
+      ],
+      "O que fazer": "Desinstalar o app e escanear o dispositivo."
+    },
+    {
+      "Golpe": "Crédito Consignado",
+      "Como acontece": "Golpistas usam dados de aposentados para contratar empréstimos consignados ilegais, desviando comissões.",
+      "Problemas da vítima": "Dívidas não autorizadas no nome da vítima.",
+      "Como se proteger": [
+        "Suspeitar de ligações em nome da Previdência.",
+        "Nunca deposite em contas de pessoas físicas."
+      ],
+      "O que fazer": "Denunciar ao INSS e registrar BO."
+    },
+    {
+      "Golpe": "Programa Desenrola",
+      "Como acontece": "Sites e perfis falsos usam o nome do programa governamental para oferecer renegociações de dívidas inexistentes.",
+      "Problemas da vítima": "Perda financeira.",
+      "Como se proteger": [
+        "Acesse apenas sites oficiais de bancos."
+      ],
+      "O que fazer": "Denunciar ao Banco Central."
+    },
+    {
+      "Golpe": "Maquininha Quebrada",
+      "Como acontece": "Entregadores cobram valores superiores ao pedido usando maquinhas com visor danificado.",
+      "Problemas da vítima": "Cobrança indevida.",
+      "Como se proteger": [
+        "Sempre confira o valor na máquina.",
+        "Recuse máquinas danificadas."
+      ],
+      "O que fazer": "Reclamar com a plataforma de compras."
+    },
+    {
+      "Golpe": "Troca de Cartão",
+      "Como acontece": "Golpistas em agências bancárias trocam cartões da vítima após observar a senha.",
+      "Problemas da vítima": "Roubo de dinheiro da conta.",
+      "Como se proteger": [
+        "Nunca entregue seu cartão a terceiros."
+      ],
+      "O que fazer": "Bloquear o cartão imediatamente."
+    },
+    {
+      "Golpe": "QR Code Falso",
+      "Como acontece": "Adesivos com QR Codes falsos são colados sobre os originais em estabelecimentos, redirecionando para links maliciosos.",
+      "Problemas da vítima": "Roubo de dados bancários.",
+      "Como se proteger": [
+        "Verifique se o QR Code está alinhado e sem adesivos."
+      ],
+      "O que fazer": "Denunciar ao estabelecimento."
+    },
+    {
+      "Golpe": "Pirâmide Financeira",
+      "Como acontece": "Promessas de rendimentos altos com recrutamento de novos participantes.",
+      "Problemas da vítima": "Perda total do investimento.",
+      "Como se proteger": [
+        "Desconfie de 'oportunidades únicas'.",
+        "Verifique registro na CVM."
+      ],
+      "O que fazer": "Denunciar à CVM (cvm.gov.br)."
+    },
+    {
+      "Golpe": "Falso Motoboy",
+      "Como acontece": "Ligação falsa do 'banco' pedindo para cortar o cartão (sem danificar o chip) e enviar por motoboy.",
+      "Problemas da vítima": "Uso do cartão por criminosos.",
+      "Como se proteger": [
+        "Bancos não recolhem cartões em residências."
+      ],
+      "O que fazer": "Bloquear o cartão e registrar BO."
+    },
+    {
+      "Golpe": "Oferta de Empregos",
+      "Como acontece": "Vagas falsas em redes sociais solicitando documentos pessoais para golpes futuros.",
+      "Problemas da vítima": "Roubo de identidade.",
+      "Como se proteger": [
+        "Verifique vagas em sites oficiais.",
+        "Nunca envie documentos para desconhecidos."
+      ],
+      "O que fazer": "Denunciar o perfil falso."
+    },
+    {
+      "Golpe": "Malha Fina/Regularize Seu CPF",
+      "Como acontece": "E-mails falsos da Receita Federal com links para 'regularizar' o CPF.",
+      "Problemas da vítima": "Roubo de dados pessoais.",
+      "Como se proteger": [
+        "Receita Federal não envia e-mails com links.",
+        "Use apenas o portal oficial (gov.br)."
+      ],
+      "O que fazer": "Excluir o e-mail sem clicar em links."
+    },
+    {
+      "Golpe": "Ameaça por Telefone",
+      "Como acontece": "Ligação com ameaças de morte ou exposição, exigindo depósitos.",
+      "Problemas da vítima": "Pânico e perda financeira.",
+      "Como se proteger": [
+        "Bloqueie números desconhecidos.",
+        "Não faça transferências."
+      ],
+      "O que fazer": "Registrar BO com número do golpista."
+    },
+    {
+      "Golpe": "Pague e Receba um Presente",
+      "Como acontece": "Mensagens oferecendo 'presentes' que exigem taxas de entrega via PIX.",
+      "Problemas da vítima": "Perda financeira.",
+      "Como se proteger": [
+        "Desconfie de presentes não solicitados."
+      ],
+      "O que fazer": "Bloquear o contato."
+    },
+    {
+      "Golpe": "Carregador de Celular Compartilhado",
+      "Como acontece": "Carregadores públicos podem conter dispositivos que roubam dados do celular.",
+      "Problemas da vítima": "Roubo de senhas e informações bancárias.",
+      "Como se proteger": [
+        "Use apenas carregadores pessoais.",
+        "Desligue o celular ao carregar em locais públicos."
+      ],
+      "O que fazer": "Escaneie o dispositivo com antivírus."
+    },
+    {
+      "Golpe": "Desconto no IPVA",
+      "Como acontece": "Sites clonados do DETRAN oferecem falsos descontos no IPVA via PIX.",
+      "Problemas da vítima": "Perda financeira.",
+      "Como se proteger": [
+        "Acesse apenas sites oficiais (ex: detran.sc.gov.br)."
+      ],
+      "O que fazer": "Denunciar o site falso."
+    },
+    {
+      "Golpe": "Robô do PIX",
+      "Como acontece": "Promessas de 'robôs' que aumentam chances em sorteios online, exigindo depósitos.",
+      "Problemas da vítima": "Perda financeira e roubo de dados.",
+      "Como se proteger": [
+        "Não acredite em ganhos fáceis.",
+        "Pesquise antes de depositar."
+      ],
+      "O que fazer": "Registrar BO."
+    },
+    {
+      "Golpe": "Falsos Precatórios",
+      "Como acontece": "Golpistas usam dados de processos públicos para exigir pagamentos antecipados pela 'liberação' de precatórios.",
+      "Problemas da vítima": "Perda financeira.",
+      "Como se proteger": [
+        "Precatórios não exigem pagamentos antecipados."
+      ],
+      "O que fazer": "Consultar o tribunal oficial (ex: TISC)."
+    },
+    {
+      "Golpe": "Falso Aluguel",
+      "Como acontece": "Anúncios de imóveis com preços abaixo do mercado exigindo sinal via PIX sem visita.",
+      "Problemas da vítima": "Perda do valor pago.",
+      "Como se proteger": [
+        "Sempre visite o imóvel.",
+        "Use cartão para pagamentos."
+      ],
+      "O que fazer": "Denunciar o anúncio e registrar BO."
+    },
+    {
+      "Golpe": "Golpes na Black Friday",
+      "Como acontece": "Sites falsos oferecem promoções irreais durante a Black Friday.",
+      "Problemas da vítima": "Perda financeira e roubo de dados.",
+      "Como se proteger": [
+        "Use cartões virtuais.",
+        "Verifique a reputação do site."
+      ],
+      "O que fazer": "Cancelar a compra e bloquear o cartão."
+    },
+    {
+      "Golpe": "E-mail Vazio",
+      "Como acontece": "E-mails sem conteúdo são enviados para validar endereços e posteriormente aplicar golpes como phishing.",
+      "Problemas da vítima": "Exposição a ataques futuros.",
+      "Como se proteger": [
+        "Exclua e-mails suspeitos.",
+        "Marque como spam."
+      ],
+      "O que fazer": "Configurar filtros anti-spam."
+    },
+    {
+      "Golpe": "Conta do Instagram Invadida",
+      "Como acontece": "Criminosos invadem perfis e anunciam vendas falsas de produtos ou investimentos.",
+      "Problemas da vítima": "Perda financeira e dano à reputação.",
+      "Como se proteger": [
+        "Ative autenticação em duas etapas.",
+        "Não vincule número de telefone publicamente."
+      ],
+      "O que fazer": "Seguir os 10 passos de recuperação no Instagram."
+    },
+    {
+        "dados_crimes_ciberneticos": [
+          {
+            "uf": "Sudeste",
+            "ano": 2024,
+            "area_de_atribuicao": "Crimes cibernéticos (legado)",
+            "flagrantes": 1,
+            "quantidade_operacoes": 2,
+            "mandados_busca_apreensao_cumpridos": 3
+          },
+          {
+            "uf": "Sudeste",
+            "ano": 2024,
+            "area_de_atribuicao": "Crimes de alta tecnologia",
+            "flagrantes": 0,
+            "quantidade_operacoes": 2,
+            "mandados_busca_apreensao_cumpridos": 3
+          },
+          {
+            "uf": "Sudeste",
+            "ano": 2024,
+            "area_de_atribuicao": "Fraudes bancárias eletrônicas",
+            "flagrantes": 1,
+            "quantidade_operacoes": 12,
+            "mandados_busca_apreensao_cumpridos": 49
+          }
+        ]
+      },
+      {
+        "estatisticas_ciberataques": {
+          "contexto_global": {
+            "titulo": "Brasil é o segundo país que mais sofre com crimes cibernéticos na América Latina",
+            "ano_referencia": 2022,
+            "tentativas_ataques_brasil": "103.1 bilhões",
+            "crescimento_anual": "+16% (vs. 2021)",
+            "comparativo_america_latina": {
+              "mexico": "187 bilhões",
+              "colombia": "20 bilhões",
+              "peru": "15.4 bilhões",
+              "total_regiao": "360 bilhões"
+            }
+          },
+          "detalhes_ataques": {
+            "tipos_mais_comuns": [
+              "Ransomware",
+              "Phishing",
+              "Trojans bancários",
+              "Vazamento de dados"
+            ],
+            "setores_afetados": [
+              "Serviços bancários online",
+              "Criptomoedas/exchanges",
+              "Identidade digital"
+            ],
+            "estatisticas_detalhadas": {
+              "trojans_bancarios": {
+                "ranking_latam": "1º lugar (Brasil)",
+                "familias_golpes": "7 das 12 principais são brasileiras"
+              },
+              "malware": {
+                "tentativas_por_minuto": 1554,
+                "percentual_bloqueios_regiao": "65%"
+              },
+              "phishing": {
+                "ranking_mundial": "6º lugar (Brasil)",
+                "comparativo_latam": "1º lugar"
+              }
+            }
+          },
+          "fraude_identidade": {
+            "tentativas_2022": 3879869,
+            "frequencia": "1 vítima a cada 9 segundos",
+            "variacao_anual": "-7.3% (vs. 2021)",
+            "estados_mais_afetados": [
+              {
+                "nome": "São Paulo",
+                "tentativas": 1191275,
+                "participacao": "30.7%"
+              },
+              {
+                "nome": "Rio de Janeiro",
+                "tentativas": 416839,
+                "participacao": "10.7%"
+              },
+              {
+                "nome": "Minas Gerais",
+                "tentativas": 337386,
+                "participacao": "8.7%"
+              }
+            ],
+            "ranking_per_capita": {
+              "distrito_federal": "2175 tentativas/milhão hab.",
+              "sao_paulo": "1849 tentativas/milhão hab."
+            }
+          },
+          "recomendacoes_seguranca": [
+            "Nunca compartilhar senhas por e-mail/telefone",
+            "Verificar autenticidade de mensagens",
+            "Manter antivírus atualizado",
+            "Evitar clicar em links suspeitos"
+          ],
+          "fontes": [
+            "Fortinet (dados de ciberataques)",
+            "Serasa Experian (fraude de identidade)",
+            "Kaspersky (trojans bancários)"
+          ]
+        }
+      }
+  ]
