@@ -129,9 +129,11 @@ Praticamente todo esse material foi feito com ajuda da Oracle e do [Caio Oliveir
 # Colaboradores 
 esse é o time que criou a Golpe Baixo, sem a ajuda delas esse projeto não teria sido completo, então acompanhe elas no github e linkedin que está linkado no nome delas
 
-<div style="display:grid; grid-template-columns: repeat(8, 1fr);">
+<div style="display:flex; gap:0.8rem; text-align:center;">
+
 <div style="display:flex; flex-direction:column;"><img src="https://github.com/Carlos-bonfim26.png?size=115" width=115><a href="https://www.linkedin.com/in/carlosbonfim26/" target="_blank">Carlos Bonfim</a></div>
 <div style="display:flex; flex-direction:column;"><img src="https://github.com/lisandrasc.png?size=115" width=115><a href="https://www.linkedin.com/in/lisandracunha/" target="_blank">Lisandra Cunha</a></div>
 <div style="display:flex; flex-direction:column;"><img src="https://github.com/anabrandt.png?size=115" width=115><a href="https://www.linkedin.com/in/anactavaresbrand/" target="_blank">Ana Tavares</a></div>
 <div style="display:flex; flex-direction:column;"><img src="https://github.com/videodegatinho.png?size=115" width=115><a href="https://www.linkedin.com/in/emilygonzaga/" target="_blank">Emily Gonzaga</a></div>
+
 </div>
